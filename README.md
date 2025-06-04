@@ -1,4 +1,8 @@
 # StellarScholar
+<p align="center">
+  <img src="assets/owl-mascot.png" width="300" alt="StellarScholar Owl Mascot">
+</p>
+
 
 ## About me!
 
